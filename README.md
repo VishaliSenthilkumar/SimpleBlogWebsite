@@ -1,1 +1,1 @@
-simple website for displaying blogs
+#simple responsive website for displaying blogs
