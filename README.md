@@ -1,1 +1,1 @@
-# Blog-Website
+simple website for displaying blogs
